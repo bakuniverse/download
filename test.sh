@@ -33,7 +33,7 @@ rpm --import https://www.elrepo.org/RPM-GPG-KEY-elrepo.org
 rpm -ivh http://soft.paozailushang.com/vps/kernel-firmware-2.6.32-504.3.3.el6.noarch.rpm
 rpm -ivh http://soft.paozailushang.com/vps/kernel-2.6.32-504.3.3.el6.x86_64.rpm --force
 number=$(cat /boot/grub/grub.conf | awk '$1=="title" {print i++ " : " $NF}'|grep '2.6.32-504'|awk '{print $1}')
-sed -i "s/^default=.*/default=$number/g" /boot/grub/grub.conf
+sed -i "s/^default=.*/default=$number/g" /etc/grub.conf
 echo -e "\033[41;36m  5s later will reboot your server  \033[0m";
 sleep 5
 reboot
