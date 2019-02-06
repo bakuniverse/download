@@ -29,6 +29,7 @@ echo "Number of cores      : $cores"
 next
 
 if [ "$CentOS_RHEL_version" -eq 6 ];then
+rpm --import https://www.elrepo.org/RPM-GPG-KEY-elrepo.org
 rpm -ivh http://soft.paozailushang.com/vps/kernel-firmware-2.6.32-504.3.3.el6.noarch.rpm
 rpm -ivh http://soft.paozailushang.com/vps/kernel-2.6.32-504.3.3.el6.x86_64.rpm --force
 number=$(cat /boot/grub/grub.conf | awk '$1=="title" {print i++ " : " $NF}'|grep '2.6.32-504'|awk '{print $1}')
