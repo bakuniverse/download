@@ -20,7 +20,6 @@ engadget.com###ldrBoardAd
 gelbooru.com##A[href*="ads="]
 github.com##.js-notice
 jav777.cc###divExoLayerWrapper
-mp.weixin.qq.com###js_pc_qr_code
 m.chouti.com##.m_download_box
 m.jd.com##.download-pannel
 m.jiemian.com###js-b-ad
@@ -13806,7 +13805,6 @@ jinti.com##a[href*="immobel.com"]
 v.sogou.com##a[href*="iwan.sogou.com/"]
 m.baidu.com##a[href*="m.lecai.com"]
 ccav1.com##a[href*="meidebi."]
-qmaile.com##a[href*="mp.weixin.qq.com"]
 kafan.cn##a[href*="nameidi."]
 dmzj.com##a[href*="qunhei.com"]
 500.com##a[href*="sanyol.cn"]
@@ -13927,7 +13925,6 @@ netbian.com##a[href^="https://ibaotu.com/guanggao/"]
 ruanyifeng.com##a[href^="https://ke.qq.com/"]
 fun1shot.com##a[href^="https://kenio.cn/"]
 linux.cn##a[href^="https://linux.cn/go/"]
-423down.com##a[href^="https://mp.weixin.qq.com/"]
 github.com##a[href^="https://openwrite.cn/"]
 cjjjs.com,fastadmin.net##a[href^="https://promotion.aliyun.com/"]
 91mjw.com,hahamx.cn##a[href^="https://s.click.taobao.com/"]
