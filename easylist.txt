@@ -24826,7 +24826,6 @@
 ||analy.qq.com^
 ||api.youtu.qq.com^
 ||appchannel.html5.qq.com^
-||as.weixin.qq.com^
 ||astrategy.beacon.qq.com^
 ||bkcommdata.v.qq.com^
 ||bksoup.v.qq.com^
@@ -24886,7 +24885,6 @@
 ||soup.v.qq.com^
 ||statistic.qzone.qq.com^
 ||strategy.beacon.qq.com^
-||szlong.weixin.qq.com^
 ||tajs.qq.com^
 ||tcss.qq.com^
 ||tools.3g.qq.com^
