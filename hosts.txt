@@ -1800,17 +1800,6 @@
 127.0.0.1 v.smtcdns.net
 127.0.0.1 ad.hpplay.cn
 127.0.0.1 adeng.hpplay.cn
-#http://im.qq.com/
-127.0.0.1 jrlt.beacon.qq.com
-127.0.0.1 log.tbs.qq.com
-127.0.0.1 activeqq.3g.qq.com
-127.0.0.1 masdk.3g.qq.com
-127.0.0.1 pmir.3g.qq.com
-127.0.0.1 cmshow.gtimg.cn
-#http://weixin.qq.com/
-127.0.0.1 wxsnsdy.tc.qq.com
-127.0.0.1 vlive.qqvideo.tc.qq.com
-127.0.0.1 wxsnsdy.video.qq.com
 #http://yixin.im/
 127.0.0.1 ad.yixin.im
 #https://twitter.com/
